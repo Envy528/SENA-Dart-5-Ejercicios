@@ -1,4 +1,4 @@
-//ignore_for_file: dead_code
+//ignore_for_file: dead_code, unnecessary_null_comparison
 
 void main() {
   Map<String, int> menu = {
