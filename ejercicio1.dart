@@ -1,5 +1,3 @@
-
-
 void main() {
   String usuario = 'Laura';
   String rol = 'cajero'; // puede ser 'admin', 'cajero' o 'mesero'
